@@ -4,6 +4,7 @@
   who's mastered daily stand-ups, thinks every task is high priority,<br>
   and is a natural at sprint planning 🏃‍♀️
 </div>
+<br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; align-items: center;">
   
