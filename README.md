@@ -2,11 +2,7 @@
 <div align="center">
   Learning agile methodology from my dog Phosphenes 🐕<br>
   who's mastered daily stand-ups, thinks every task is high priority,<br>
-  and is a natural at sprint planning 🏃‍♀️✨
-</div>
-
-<div align="center">
-  <h2>🎀 Tech Stack 🎀</h2>
+  and is a natural at sprint planning 🏃‍♀️
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; align-items: center;">
